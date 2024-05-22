@@ -13943,9 +13943,9 @@ html.dark .dd-handle:hover {
 	border-radius: 50%;
 	box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.3);
 	display: inline-block;
-	height: 30px;
+	height: 5px;
 	position: relative;
-	width: 30px;
+	width: 5px;
 	text-align: center;
 }
 
@@ -13957,12 +13957,12 @@ html.dark .dd-handle:hover {
 	color: #777;
 	font-size: 16.8px;
 	font-size: 1.05rem;
-	line-height: 30px;
+	line-height: 5px;
 	vertical-align: middle;
 }
 
 .notifications > li .notification-icon i.fa-tasks {
-	line-height: 32px;
+	line-height: 5px;
 }
 
 .notifications > li .notification-icon .badge {
